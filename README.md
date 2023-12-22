@@ -2,7 +2,7 @@ This is my first project for practice next.js ✨
 
 ## Getting Started
 
-First, run the development server:
+First, run the development server!!
 
 ```bash
 npm run dev
